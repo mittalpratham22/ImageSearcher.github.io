@@ -1,1 +1,2 @@
 # ImageSearcher.github.io
+This project contains a search box in which users can search any image that they want and a list of images will appear. The user needs to enter the genre of image that he/she wants and as soon as the "Search" button is clicked 12 images appear on the screen at once, user can see more images by clicking on "Show More" button. This project uses an image API from unsplash.com which is implemented using JavaScript, while the structure and designing of the page is done using HTML and CSS, respectively.
